@@ -19,3 +19,9 @@
 ### P4 Space Pirate Specs [TBD] - IN PROGRESS
   * A conceptual closed loop life support system, divided into phases based on feasibility.
   * Currently, working on the "FINAL PHASE" as the portfolio project
+
+---
+
+### P5 Iterative Design [Revit] - COMPLETE
+  * A compilation of projects from my grad school BIM course
+  * This project was based on a physical blueprint my aunt had purchased when they were planning to build a home.
