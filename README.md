@@ -1,18 +1,18 @@
 # Tech-Writing-Portfolio
 ### P1 Household Chores [DITA] - COMPLETE
    * A sample project completed to grasp the basic concepts of DITA
-   * Only include the actual code, no PDF document
+   * Only includes the actual code, no PDF document
 
 ---
 
 ### P2 Invoicing SOP [Word] - IN PROGRESS
-  * A simple brief SOP using word
+  * A simple SOP created using word
 
 ---
 
 ### P3 Warranty Role 1 SOP [DITA] - IN PROGRESS
   * A project taking the intake, verification, and ordering process & organizing it into a workflow using DITA
-  * Currently, will only have a brief overview of the process rather than an indepth breakdown
+  * Currently, will only have an overview of the process rather than an indepth breakdown
 
 ---
 
