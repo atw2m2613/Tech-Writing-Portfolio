@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE task PUBLIC "C:\Users\atw2m\Desktop\dita files\dita-ot-4.4\dita-ot-4.4\catalog-dita.xml" "task.dtd">
+
+<concept id="main_concept">
+
+<title>"Household Chores"</title>
+
+<shortdesc>"This is a brief overview of some general household chores and how to do them."</shortdesc>
+
+<conbody>
+
+    <p>"Everyone needs a clean place to live. Clean environments promote good mental 
+        health and help prevent the spread of diseases."</p>
+    
+    <p>"But how does one do chores? For most, they are taught, but not everyone
+        has the luxury of a teacher or hands on experience. As such, this guide will walk 
+        people through basic chores."</p>
+
+</conbody>
+
+</concept>

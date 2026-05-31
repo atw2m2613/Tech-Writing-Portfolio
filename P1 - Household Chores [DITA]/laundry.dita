@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "C:\Users\atw2m\Desktop\dita files\dita-ot-4.4\dita-ot-4.4\catalog-dita.xml" "task.dtd">
+
+<task id="laundry">
+
+<title>"Doing Laundry"</title>
+
+<shortdesc>"A short guide on how to do laundry."</shortdesc>
+
+<taskbody>
+
+<steps>
+
+    <step>
+        <cmd>"Gather dirty laundry into hamper."</cmd>
+    </step>
+
+    <step>
+        <cmd>"Separate clothes according to care instructions"</cmd>
+        <note type="tip">"A good rule of thumb is keep whites and colors separate 
+            and to keep delicates separate from other clothes"</note>
+    </step>
+
+    <step>
+        <cmd>"Add detergent and laundry to the washing machine."</cmd>
+        <note type="warning">Keep all detergent, pods, or other chemicals out of reach of children
+            and animals."</note>
+        <note type="caution">"Where protective gloves when handling bleach and handle with 
+            care to avoid spills or injuries."</note>
+        <note type="tip">"If you will be hanging your laundry to dry, consider adding some fabric
+            softener to keep your close soft after drying."</note>
+    </step>
+
+    <step>
+        <cmd>"Select settings based on load and start laundry machine."</cmd>
+    </step>
+
+    <step>
+        <cmd>"Once laundry is done washing, transfer to dryer and start it or hang up to dry."</cmd>
+    </step>
+
+    <step>
+        <cmd>"Once clothes are dry, gather and do one of the following:"</cmd>
+        <note>
+            <ul>
+                <li>"Fold or roll items for dressers"</li>
+                <li>"Place on hangers and hang up in the closet"</li>
+            </ul>
+        </note>
+    </step>
+
+</steps>
+
+</taskbody>
+
+</task>

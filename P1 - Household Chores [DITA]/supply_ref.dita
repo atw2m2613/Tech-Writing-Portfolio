@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE task PUBLIC "C:\Users\atw2m\Desktop\dita files\dita-ot-4.4\dita-ot-4.4\catalog-dita.xml" "task.dtd">
+
+<reference id="cleaning_supplies">
+
+<title>"Cleaning Supplies Reference Guide"</title>
+
+<shortdesc>"A reference guide showing various products for laundry and dishes."</shortdesc>
+
+<refbody>
+
+    <properties id="chemicals">
+
+        <prophead>
+            <proptypehd>"Supply Type"</proptypehd>
+            <propvaluehd>"Application"</propvaluehd>
+            <propdeschd>"Target Qualities"</propdeschd>
+        </prophead>
+
+        <property>
+            <proptype>"Liquid Dish Soap"</proptype>
+            <propvalue>"Manual Dish Washing"</propvalue>
+            <propdesc>"Grease Fighting, Nonabrasive, High Sudsing"</propdesc>
+        </property>
+
+        <property>
+            <proptype>"Liquid Laundry Detergent"</proptype>
+            <propvalue>"Washing Machines Detergent"</propvalue>
+            <propdesc>"HE Tagged, Sensitive Skin Formula"</propdesc>
+        </property>
+
+        <property>
+            <proptype>"Laundry Pod"</proptype>
+            <propvalue>"Washing Machines Detergent"</propvalue>
+            <prodesc>"HE Tagged, Sensitive Skin Formula, Disolves in Cold Water"</propdesc>
+        </property>
+
+        <property>
+            <proptype>"Fabric Softener"</proptype>
+            <propvalue>"Washing Machine Additive"</propvalue>
+            <propdesc>"Sensitive Skin Formula"</propdesc>
+        </property>
+
+        <property>
+            <proptype>"Bleach"</proptype>
+            <propvalue>"Washing Machine or Dish Wash Additive"</propvalue>
+            <propdesc>"Low Splash Formula - USE WITH CARE"</propdesc>
+        </property>
+
+        <property>
+            <proptype>"Dryer Sheets"</proptype>
+            <propvalue>"Machine Drying Only"</propvalue>
+            <propdesc>"Sensitive Skin Formula, Reduce Static Cling, Soften Fabric"</propdesc>
+        </property>
+
+    </properties>
+
+</refbody>
+
+</reference>

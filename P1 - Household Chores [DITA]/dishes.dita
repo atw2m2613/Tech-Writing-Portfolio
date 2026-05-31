@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE task PUBLIC "C:\Users\atw2m\Desktop\dita files\dita-ot-4.4\dita-ot-4.4\catalog-dita.xml" "task.dtd">
+
+<task id = "dishes">
+
+    <title>"Washing the Dishes"</title>
+
+    <shortdesc>"A short guide on how to wash dishes"</shortdesc>
+
+<taskbody>
+
+    <steps>
+
+        <step>
+            <cmd>"Empty the sink"</cmd>
+        </step>
+
+        <step>
+            <cmd>"Plug the drain"</cmd>
+        </step>
+
+        <step>
+            <cmd>"Fill with warm water"</cmd>
+                <note type="tip">"Don't forget to add dish soap!"</note>
+                <note type="warning">"Make sure you don't make it too hot
+                    or you could burn your hands if held in the water 
+                    too long"</note>
+        </step>
+
+        <step>
+            <cmd>"Put dishes in the Sink"</cmd>
+                <note type="tip">"For tougher messes, let them soak 
+                    in the warm water longer"</note>
+        </step>
+
+        <step>
+            <cmd>"Scrub until clean using a dish rag or sponge"</cmd>
+        </step>
+
+        <step>
+            <cmd>"Rinse with cool water"</cmd>
+        </step>
+
+        <step>
+            <cmd>"For best results, let air dry."</cmd>
+                <note type="warning">"For special materials such as woods, 
+                    refer to care instructions or hand dry as needed"</note>
+        </step>
+
+        <step>
+            <cmd>"Put dry dishes away."</cmd>
+        </step>
+
+    </steps>
+
+</taskbody>
+
+</task>

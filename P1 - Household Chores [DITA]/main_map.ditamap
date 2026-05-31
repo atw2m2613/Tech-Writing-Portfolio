@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE task PUBLIC "C:\Users\atw2m\Desktop\dita files\dita-ot-4.4\dita-ot-4.4\catalog-dita.xml" "task.dtd">
+
+<map id="main_toc">
+
+    <title>"Table of Contents"</title>
+
+    <topicref href="main_concept.dita"/>
+
+    <topicref href="dishes.dita"/>
+
+    <topicref href="laundry.dita"/>
+
+    <topicref href="supply_ref.dita"/>
+
+</map>
