@@ -5,8 +5,8 @@
 
 ---
 
-### P2 Invoicing SOP [Word] - IN PROGRESS
-  * A simple SOP created using word
+### P2 Invoicing Warranty Pick Tickets SOP [Markdown] - IN PROGRESS
+  * A simple SOP created using markdown syntax in GitHub
 
 ---
 
