@@ -30,6 +30,35 @@ Once all items are verified, if billing instructions advise:
 
 ## Step Two-A: Keying Freight to Servicer Account
 
+Follow the steps outlined in "Keying an Order," (not included in this document) using the following information:
+
+  * Ship To: Billable account from Step One
+  * Sales & Source Location: Set to the branch where the part is shipping from
+
+        Ensure both locations match prior to putting in the part number, otherwise
+        the system will lock you out and you'll have to restart the order.
+  * Part Number: FRT
+  * Unit Cost: Freight cost from Step One
+  * Purchase Order: HOMEOWNER'S NAME - WTY FRT
+
+        EX: JOHN SMITH - WTY FRT
+  * Order Notes: BLEVINS TICKET #[ticket number] (the warranty ticket number from Step One)
+
+        EX: BLEVINS TICKET #WAR-000123
+Review all items to ensure completion and accuracy, then do the following:
+  * Go to "Print Options"
+  * Select "Print" under the "Invoice" segment
+  * Select "Save" at the top of the order
+
+The system will then generate a printable PDF document:
+  * Print a physical copy
+  * Save a digital copy: WAR[ticket number] INV [invoice number]
+
+        EX: WAR123 INV 55533212
+Once complete, proceed to Step Three.
+
+---
+
 ## Step Two-B: Adding Freight to Warranty Order
 
 ## Step Three: Processing the Invoice
