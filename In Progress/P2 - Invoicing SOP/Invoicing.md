@@ -22,13 +22,13 @@ If any applicable items are missing or unclear, escalate to appropriate team mem
  * When in doubt, touch base with the keyer first.
 
 Once all items are verified, if billing instructions advise:
- * Bill freight to the servicer, proceed to Step Two-A.
- * Servicer to pay in full, proceed to Step Two-B.
+ * Bill freight to the servicer, proceed to Step Two.
+ * Servicer to pay in full, proceed to Step Three (ensure you fully read the "IF APPLICABLE, ADD FREIGHT COSTS" section)
  * Bill freight to the branch, proceed to Step Three.
 
 ---
 
-## Step Two-A: Keying Freight to Servicer Account
+## Step Two: Keying Freight to Servicer Account
 
 Follow the steps outlined in "Keying an Order," (not included in this document) using the following information:
 
@@ -42,9 +42,11 @@ Follow the steps outlined in "Keying an Order," (not included in this document) 
   * Purchase Order: HOMEOWNER'S NAME - WTY FRT
 
         EX: JOHN SMITH - WTY FRT
-  * Order Notes: BLEVINS TICKET #[ticket number] (the warranty ticket number from Step One)
+  * Order Notes: BLEVINS TICKET #[ticket number] (the warranty ticket number from Step One) <br>
+      FRT FOR WARRANTY ORDER #[order number]
 
         EX: BLEVINS TICKET #WAR-000123
+            FRT FOR WARRANTY ORDER #12340699
 Review all items to ensure completion and accuracy, then do the following:
   * Go to "Print Options"
   * Select "Print" under the "Invoice" segment
@@ -58,7 +60,5 @@ The system will then generate a printable PDF document:
 Once complete, proceed to Step Three.
 
 ---
-
-## Step Two-B: Adding Freight to Warranty Order
 
 ## Step Three: Processing the Invoice
