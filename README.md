@@ -25,3 +25,8 @@
 ### P5 Iterative Design [Revit] - COMPLETE
   * A compilation of projects from my grad school BIM course
   * This project was based on a physical blueprint my aunt had purchased when they were planning to build a home.
+
+---
+
+### P6 Python Programming Study [CODE] - IN PROGRESS
+  * A compilation of practice problems done to refamiliarize myself with Python syntax
