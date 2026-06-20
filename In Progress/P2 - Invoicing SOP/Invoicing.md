@@ -89,7 +89,7 @@ Once complete, proceed to Step Four.
 
 ---
 
-### Step Four: Information & Document Management
+## Step Four: Information & Document Management
 
 First, upload all notes and invoices associated with the order into it's related ticket following the steps outlined in "Ticket Uploads & Maintanence" (not included in this document).
 
