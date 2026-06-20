@@ -91,7 +91,7 @@ Once complete, proceed to Step Four.
 
 ## Step Four: Information & Document Management
 
-First, upload all notes and invoices associated with the order into it's related ticket following the steps outlined in "Ticket Uploads & Maintanence" (not included in this document).
+First, upload all notes and invoices associated with the order into it's related ticket following the steps outlined in "Ticket Uploads & Maintenance" (not included in this document).
 
 Second, send tracking and relevant invoices to the servicer using the existing correspondance. Relevant invoices are freight invoices put on servicer accounts and invoices where the servicer paid in full (part only or part & freight).
 
